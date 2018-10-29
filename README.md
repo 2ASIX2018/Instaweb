@@ -1,7 +1,7 @@
 # Instaweb
 Proyecto para ver y comentar fotos.
 
-## 1. Introducción
+### 1. Introducción
 
  Titulo del proyecto: Instaweb.
 
@@ -11,4 +11,4 @@ Proyecto para ver y comentar fotos.
 
  Dirección del proyecto: https://github.com/2ASIX2018/Instaweb
 
-## 2. Diseño Base de Datos
+### 2. Diseño Base de Datos
