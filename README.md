@@ -12,3 +12,8 @@ Proyecto para ver y comentar fotos.
  Dirección del proyecto: https://github.com/2ASIX2018/Instaweb
 
 ### 2. Diseño Base de Datos
+
+El diseño de la base de datos sera de 3 tablas, una para usuarios, una para fotos y otra para comentarios.
+
+##### 2.1 Descripción de la Base de Datos
+
