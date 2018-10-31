@@ -31,3 +31,7 @@ Les diferents pàgines de què es composarà l'aplicació seran:
      
    <img src="https://github.com/2ASIX2018/Instaweb/blob/master/img/Registro.png" />
    
+
+### 3. Tareas a realitzar i calendaritzación
+
+|Tareas|Fecha de realización|
