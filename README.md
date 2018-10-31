@@ -41,16 +41,18 @@ Les diferents pàgines de què es composarà l'aplicació seran:
       <th scope="col">Fecha de realización</th>
     </tr>
   </thead>
-  <tfoot>
+  <tbody>
     <tr>
      <tr> <td>del 12/11 al 2/12</td>  </tr>
-          <td>Creación de usuarios</td>
      <tr> <td>del 15/11 al 5/12</td>  </tr>
-          <td>Creación de base de datos</td>
      <tr> <td>del 25/11 al 15/12</td> </tr>
-          <td>Creación de todo el contenido web</td>
      <tr> <td>del 15/12 al 22/12</td> </tr>
-          <td>Añadir funcionalidades para gestionar usuarios </td>
     </tr>
-  </tfoot>
+  </tbody>
+  <tr>
+  <td>Creación de usuarios</td>
+  <td>Creación de base de datos</td>
+  <td>Creación de todo el contenido web</td>
+  <td>Añadir funcionalidades para gestionar usuarios </td>
+  <tr>
 </table>
