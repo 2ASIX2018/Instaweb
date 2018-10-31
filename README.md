@@ -51,10 +51,10 @@ Les diferents pàgines de què es composarà l'aplicació seran:
   </tfoot>
   <tbody>
     <tr>
-     <tr> <td>Creación de usuarios</td> </tr>
-     <tr> <td>Creación de base de datos</td> </tr>
-     <tr> <td>Creación de todo el contenido web</td> </tr>
-     <tr> <td>Añadir funcionalidades para gestionar usuarios </td> </tr>
+     <td>Creación de usuarios</td>
+     <td>Creación de base de datos</td>
+     <td>Creación de todo el contenido web</td>
+     <td>Añadir funcionalidades para gestionar usuarios </td>
     </tr>
   </tbody>
 </table>
