@@ -34,4 +34,24 @@ Les diferents pàgines de què es composarà l'aplicació seran:
 
 ### 3. Tareas a realitzar i calendaritzación
 
-      |Tareas|Fecha de realización|
+     >```html
+<table summary="This is a chart of invoices for 2011.">
+  <thead>
+    <tr>
+      <th scope="col">Tareas</th>
+      <th scope="col">Fecha de realización</th>
+    </tr>
+  </thead>
+  <tfoot>
+    <tr>
+      <td>Table footer 1</td>
+      <td>Table footer 2</td>
+    </tr>
+  </tfoot>
+  <tbody>
+    <tr>
+      <td>Table data 1</td>
+      <td>Table data 2</td>
+    </tr>
+  </tbody>
+</table>
