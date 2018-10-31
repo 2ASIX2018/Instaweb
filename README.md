@@ -18,3 +18,17 @@ El diseño de la base de datos sera de 3 tablas, una para usuarios, una para fot
 ##### 2.1 Descripción de la Base de Datos
 
 <img src="https://github.com/2ASIX2018/Instaweb/blob/master/img/proyecto.png" />
+
+##### 2.2. Descripció de la interfície
+
+Les diferents pàgines de què es composarà l'aplicació seran:
+
+    Pàgina inicial: En la pagina principal tenemos el menu y una cabecera.
+    
+     <img src="https://github.com/2ASIX2018/Instaweb/blob/master/img/principal.png" />
+    
+    Pàgina Registro: Tenemos el formulario con el cual se conectaran los usuarios.
+    
+    
+     <img src="https://github.com/2ASIX2018/Instaweb/blob/master/img/Registro.png" />
+   
