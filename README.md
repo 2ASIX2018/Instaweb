@@ -44,6 +44,7 @@ Les diferents pàgines de què es composarà l'aplicació seran:
   <tfoot>
     <tr>
      <tr> <td>del 12/11 al 2/12</td>  </tr>
+          <td>Creación de usuarios</td>
      <tr> <td>del 15/11 al 5/12</td>  </tr>
      <tr> <td>del 25/11 al 15/12</td> </tr>
      <tr> <td>del 15/12 al 22/12</td> </tr>
