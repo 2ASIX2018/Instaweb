@@ -34,4 +34,4 @@ Les diferents pàgines de què es composarà l'aplicació seran:
 
 ### 3. Tareas a realitzar i calendaritzación
 
-|Tareas|Fecha de realización|
+      |Tareas|Fecha de realización|
