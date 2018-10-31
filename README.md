@@ -28,7 +28,6 @@ Les diferents pàgines de què es composarà l'aplicació seran:
    <img src="https://github.com/2ASIX2018/Instaweb/blob/master/img/principal.png" />
     
     Pàgina Registro: Tenemos el formulario con el cual se conectaran los usuarios.
-    
-    
+     
    <img src="https://github.com/2ASIX2018/Instaweb/blob/master/img/Registro.png" />
    
